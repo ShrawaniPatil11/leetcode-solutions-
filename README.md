@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
