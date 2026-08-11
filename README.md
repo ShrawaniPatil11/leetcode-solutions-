@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
+| [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [2596-check-knight-tour-configuration](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
