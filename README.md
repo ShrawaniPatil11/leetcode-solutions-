@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
 | [2596-check-knight-tour-configuration](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
