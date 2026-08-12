@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [2596-check-knight-tour-configuration](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Depth-First Search
@@ -41,16 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
@@ -68,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
