@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
