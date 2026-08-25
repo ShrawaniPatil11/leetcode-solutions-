@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0206-reverse-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
