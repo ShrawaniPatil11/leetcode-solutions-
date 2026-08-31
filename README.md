@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0169-majority-element) |
