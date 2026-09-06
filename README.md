@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0242-valid-anagram) |
@@ -158,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
