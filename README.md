@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
