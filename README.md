@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0844-backspace-string-compare) |
 | [2596-check-knight-tour-configuration](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
