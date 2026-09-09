@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0136-single-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0844-backspace-string-compare) |
@@ -181,9 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
