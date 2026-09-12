@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0503-next-greater-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2596-check-knight-tour-configuration) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Depth-First Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
