@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0392-is-subsequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0572-subtree-of-another-tree) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShrawaniPatil11/leetcode-solutions-/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
